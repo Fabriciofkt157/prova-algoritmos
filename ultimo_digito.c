@@ -1,4 +1,8 @@
-
+/*
+NOME DO PROGRAMA: ultimo_digito
+QUESTÃO 2
+NOME DO PROGRAMADOR: Fabricio Keltika Tanquella
+*/
 #include <stdio.h>
 
 int main()
