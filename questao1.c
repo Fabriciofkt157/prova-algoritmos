@@ -10,11 +10,6 @@ int main()
     int a, b, s;
     scanf("%d %d", &a, &b);
     s = a + b;
-    if(a < 0 || a > 9 || b < 0 || b > 9) 
-        printf("números de entrada não permitidos");
-    else
-        printf("%d + %d = %d", a, b, s);
-    
-
+    printf("%d + %d = %d", a, b, s);
     return 0;
 }
