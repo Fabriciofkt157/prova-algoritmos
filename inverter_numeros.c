@@ -1,4 +1,8 @@
-
+/*
+NOME DO PROGRAMA: inverter_numeros
+QUESTÃO 3
+NOME DO PROGRAMADOR: Fabricio Keltika Tanquella
+*/
 #include <stdio.h>
 
 int main()
