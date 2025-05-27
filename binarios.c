@@ -1,4 +1,8 @@
-
+/*
+NOME DO PROGRAMA: binarios
+QUESTÃO 7
+NOME DO PROGRAMADOR: Fabricio Keltika Tanquella
+*/
 #include <stdio.h>
 
 int main()
