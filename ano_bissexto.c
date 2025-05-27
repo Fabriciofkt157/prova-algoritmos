@@ -1,8 +1,3 @@
-/*
-NOME DO PROGRAMA: ano_bissexto
-QUESTÃO 8
-NOME DO PROGRAMADOR: Fabricio Keltika Tanquella
-*/
 
 #include <stdio.h>
 
