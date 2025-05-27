@@ -1,4 +1,8 @@
-
+/*
+NOME DO PROGRAMA: conversao_de_notas
+QUESTÃO 9
+NOME DO PROGRAMADOR: Fabricio Keltika Tanquella
+*/
 #include <stdio.h>
 
 int main()
