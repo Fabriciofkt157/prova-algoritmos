@@ -1,8 +1,4 @@
-/*
-NOME DO PROGRAMA: calculadora_simples
-QUESTÃO 10
-NOME DO PROGRAMADOR: Fabricio Keltika Tanquella
-*/
+
 #include <stdio.h>
 #include <math.h>
 
