@@ -1,4 +1,8 @@
-
+/*
+NOME DO PROGRAMA: soma_e_multiplicacao_de_fracoes
+QUESTÃO 6
+NOME DO PROGRAMADOR: Fabricio Keltika Tanquella
+*/
 #include <stdio.h>
 
 int main()
