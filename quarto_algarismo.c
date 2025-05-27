@@ -1,4 +1,8 @@
-
+/*
+NOME DO PROGRAMA: quarto_algarismo
+QUESTÃO 4
+NOME DO PROGRAMADOR: Fabricio Keltika Tanquella
+*/
 #include <stdio.h>
 
 int main()
