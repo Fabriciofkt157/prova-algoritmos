@@ -1,4 +1,8 @@
-
+/*
+NOME DO PROGRAMA: temporizador
+QUESTÃO 5
+NOME DO PROGRAMADOR: Fabricio Keltika Tanquella
+*/
 #include <stdio.h>
 
 int main()
