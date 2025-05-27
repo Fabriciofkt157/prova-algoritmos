@@ -1,5 +1,5 @@
 /*
-NOME DO PROGRAMA: soma simples
+NOME DO PROGRAMA: soma_simples
 QUESTÃO 1
 NOME DO PROGRAMADOR: Fabricio Keltika Tanquella
 */
