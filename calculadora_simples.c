@@ -1,5 +1,5 @@
 /*
-NOME DO PROGRAMA: binarios
+NOME DO PROGRAMA: calculadora_simples
 QUESTÃO 10
 NOME DO PROGRAMADOR: Fabricio Keltika Tanquella
 */
