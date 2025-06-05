@@ -1,3 +1,10 @@
+/*
+Nome do programa: gasolina_ou_alcool
+Questão: 1
+NOME DO PROGRAMADOR: Fabricio Keltika Tanquella
+*/
+
+
 #include <stdio.h>
 
 int main()
