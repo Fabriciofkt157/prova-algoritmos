@@ -1,3 +1,9 @@
+/*
+Nome do programa: fileira_do_aviao
+Questão: 2
+NOME DO PROGRAMADOR: Fabricio Keltika Tanquella
+*/
+
 #include <stdio.h>
 
 int main() {
